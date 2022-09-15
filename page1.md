@@ -7,5 +7,6 @@ categories: test post first page1
 
 # Title1
 message1
+![Book logo](/assets/colorball.jpg)
 # Title2
 message2
